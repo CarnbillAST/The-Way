@@ -1,7 +1,7 @@
 :root{
-    --dark: #ecee61;
+    --dark: red;
     --gray: blue;
-    --red: #ddbf12;
+    --red: pink;
     --light: voilet;
 }
 html{
